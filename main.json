@@ -330,16 +330,46 @@
          "tilewidth":32
         }, 
         {
+         "columns":14,
          "firstgid":455,
-         "source":"src\/assets\/MegaPixelArt32x32pxIcons_SpriteSheet.tsx"
+         "image":"src\/assets\/MegaPixelArt32x32pxIcons_SpriteSheet.png",
+         "imageheight":1152,
+         "imagewidth":448,
+         "margin":0,
+         "name":"MegaPixelArt32x32pxIcons_SpriteSheet",
+         "spacing":0,
+         "tilecount":504,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":10,
          "firstgid":959,
-         "source":"src\/assets\/grass.tsx"
+         "image":"src\/assets\/grass.png",
+         "imageheight":224,
+         "imagewidth":320,
+         "margin":0,
+         "name":"grass",
+         "spacing":0,
+         "tilecount":70,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":11,
          "firstgid":1029,
-         "source":"src\/assets\/tf_jungle_tileset.tsx"
+         "image":"src\/assets\/tf_jungle_tileset.png",
+         "imageheight":336,
+         "imagewidth":352,
+         "margin":0,
+         "name":"tf_jungle_tileset",
+         "spacing":0,
+         "tilecount":110,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
