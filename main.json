@@ -458,6 +458,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":6,
+         "firstgid":1600,
+         "image":"src\/assets\/JunkYard.png",
+         "imageheight":32,
+         "imagewidth":192,
+         "margin":0,
+         "name":"JunkYard",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
