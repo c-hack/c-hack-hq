@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-south.json#start_ptl}"
+                 "value":"world:\/\/lounge\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -111,11 +111,6 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Press SPACE to meet others in our C-Cafe"
                 }],
          "type":"tilelayer",
          "visible":true,
