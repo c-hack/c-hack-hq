@@ -1015,6 +1015,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Plotter",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c-hack.de -- CC-BY-SA-NC-3.0"
+                }],
          "spacing":0,
          "tilecount":42,
          "tileheight":32,
@@ -1113,13 +1119,7 @@
                          "duration":300,
                          "tileid":39
                         }],
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"c-hack.de -- CC-BY-SA-NC-3.0"
-                        }]
+                 "id":7
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
@@ -1152,6 +1152,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"HighV",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c-hack.de -- CC-BY-SA-NC-3.0"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1202,13 +1208,7 @@
                          "duration":200,
                          "tileid":7
                         }],
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"c-hack.de -- CC-BY-SA-NC-3.0"
-                        }]
+                 "id":7
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
