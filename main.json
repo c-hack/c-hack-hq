@@ -596,6 +596,10 @@
                         }, 
                         {
                          "duration":100,
+                         "tileid":3
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":31
                         }, 
                         {
@@ -622,6 +626,10 @@
                 }, 
                 {
                  "animation":[
+                        {
+                         "duration":100,
+                         "tileid":4
+                        }, 
                         {
                          "duration":100,
                          "tileid":4
@@ -664,6 +672,10 @@
                         }, 
                         {
                          "duration":100,
+                         "tileid":33
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":5
                         }, 
                         {
@@ -694,6 +706,10 @@
                 }, 
                 {
                  "animation":[
+                        {
+                         "duration":100,
+                         "tileid":10
+                        }, 
                         {
                          "duration":100,
                          "tileid":10
@@ -760,12 +776,20 @@
                         }, 
                         {
                          "duration":100,
+                         "tileid":13
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":41
                         }],
                  "id":13
                 }, 
                 {
                  "animation":[
+                        {
+                         "duration":100,
+                         "tileid":17
+                        }, 
                         {
                          "duration":100,
                          "tileid":17
@@ -824,6 +848,10 @@
                         }, 
                         {
                          "duration":100,
+                         "tileid":18
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":46
                         }, 
                         {
@@ -838,6 +866,10 @@
                 }, 
                 {
                  "animation":[
+                        {
+                         "duration":100,
+                         "tileid":19
+                        }, 
                         {
                          "duration":100,
                          "tileid":19
@@ -1517,7 +1549,7 @@
                  "value":"c-hack.de -- CC-BY-SA-NC-3.0"
                 }],
          "spacing":0,
-         "tilecount":64,
+         "tilecount":24,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
