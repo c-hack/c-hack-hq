@@ -1,12 +1,11 @@
 # WorkAdventure Map Starter Kit
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+~~This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).~~
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+This is the rc3/2021 map for the [c-hack](https://c-hack.de)
 
-![map](./map.png)
-
-## Installation
+## Using
+### Local Installation
 
 With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
 
@@ -17,6 +16,9 @@ npm run start
 
 The project will run at http://localhost:8080/
 
+### Deployed version from main branch
+
+See https://c-hack.github.io/c-hack-hq/
 ## Licenses
 
 This project contains multiple licenses:
