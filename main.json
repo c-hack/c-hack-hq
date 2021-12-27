@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/\/floppy-landfill.json#start_upper_left"
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_c-hack"
                 }],
          "type":"tilelayer",
          "visible":true,
